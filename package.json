@@ -1,0 +1,15 @@
+{
+  "name": "issue-v2-2",
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "start": "nuxi preview"
+  },
+  "dependencies": {
+    "nuxt-edge": "2.16.0-27720022.54e852f",
+    "nuxt-umami": "^1.0.2"
+  },
+  "devDependencies": {
+    "@nuxt/bridge": "npm:@nuxt/bridge-edge@3.0.0-27747000.69db93e"
+  }
+}
